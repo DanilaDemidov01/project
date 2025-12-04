@@ -1,0 +1,42 @@
+Строк: 2564
+Столбцов: 27
+
+Типы данных:
+federal_district           object
+federal_district_short     object
+region_code                 int64
+region_name                object
+okato                       int64
+id                          int64
+name                       object
+name_short                 object
+year                        int64
+e1                        float64
+e2                        float64
+e3                        float64
+e4                        float64
+e5                        float64
+e6                        float64
+e8                        float64
+ege_budg                  float64
+wos                       float64
+scopus                    float64
+rsci                      float64
+rnd                       float64
+total_income              float64
+square                      int64
+phd_share                 float64
+pps                         int64
+rnd_private               float64
+pk                        float64
+dtype: object
+
+Первые строки:
+          federal_district federal_district_short  region_code                 region_name        okato  id  ... total_income square  phd_share  pps  rnd_private       pk
+0  Южный федеральный округ                    ЮФО            1  Республика Адыгея (Адыгея)  79000000000   1  ...  1183805.084  53753      86.11  420     12016.20  3781.40
+1  Южный федеральный округ                    ЮФО            1  Республика Адыгея (Адыгея)  79000000000   1  ...  1258764.500  53753      88.74  398     11741.00  3749.05
+2  Южный федеральный округ                    ЮФО            1  Республика Адыгея (Адыгея)  79000000000   1  ...  1192261.000  51206      88.72  385     19762.05  3459.40
+3  Южный федеральный округ                    ЮФО            1  Республика Адыгея (Адыгея)  79000000000   1  ...   760364.600  60484      90.93  373     21984.62  3514.65
+4  Южный федеральный округ                    ЮФО            1  Республика Адыгея (Адыгея)  79000000000   1  ...   741335.000  60471      90.36  363     27054.39  4179.00
+
+[5 rows x 27 columns]
